@@ -1,6 +1,8 @@
 # Simple_LSTM_Implementation
 
 One of the most basic and effective implementation of LSTMs for training a predictive model based on past or current hour data.
+Prediction model is trained to predict the next hour sales of liquor sales shop.
+Dataset file is available(LiquorSales.csv).
 
 ### Prerequisites
 * numpy
